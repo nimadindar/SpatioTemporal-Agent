@@ -371,6 +371,38 @@
       "url": "http://arxiv.org/abs/2507.19468v1",
       "abstract": "We present DINO-world, a powerful generalist video world model trained to predict future frames in the latent space of DINOv2. By leveraging a pre-trained image encoder and training a future predictor on a large-scale uncurated video dataset, DINO-world learns the temporal dynamics of diverse scenes, from driving and indoor scenes to simulated environments. We show that DINO-world outperforms previous models on a variety of video prediction benchmarks, e.g. segmentation and depth forecasting, an",
       "usefulness_score": 79
+    },
+    {
+      "source": "arxiv",
+      "title": "Reconstructing 4D Spatial Intelligence: A Survey",
+      "authors": [
+        "Yukang Cao",
+        "Jiahao Lu",
+        "Zhisheng Huang",
+        "Zhuowei Shen",
+        "Chengfeng Zhao",
+        "Fangzhou Hong",
+        "Zhaoxi Chen",
+        "Xin Li",
+        "Wenping Wang",
+        "Yuan Liu",
+        "Ziwei Liu"
+      ],
+      "Publish_date": "28-07-2025",
+      "url": "http://arxiv.org/abs/2507.21045v1",
+      "abstract": "Reconstructing 4D spatial intelligence from visual observations has long been a central yet challenging task in computer vision, with broad real-world applications. These range from entertainment domains like movies, where the focus is often on reconstructing fundamental visual elements, to embodied AI, which emphasizes interaction modeling and physical realism. Fueled by rapid advances in 3D representations and deep learning architectures, the field has evolved quickly, outpacing the scope of p",
+      "usefulness_score": 80
+    },
+    {
+      "source": "plosone",
+      "title": "Spatio-temporal characterization of earthquake sequence...",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301975",
+      "abstract": "Point process modeling can be used to better understand potential interactions between earthquakes and spatial features, temporal features, and",
+      "usefulness_score": 85
     }
   ]
 }
