@@ -403,6 +403,23 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301975",
       "abstract": "Point process modeling can be used to better understand potential interactions between earthquakes and spatial features, temporal features, and",
       "usefulness_score": 85
+    },
+    {
+      "source": "arxiv",
+      "title": "GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset",
+      "authors": [
+        "Yuhan Wang",
+        "Siwei Yang",
+        "Bingchen Zhao",
+        "Letian Zhang",
+        "Qing Liu",
+        "Yuyin Zhou",
+        "Cihang Xie"
+      ],
+      "Publish_date": "28-07-2025",
+      "url": "http://arxiv.org/abs/2507.21033v1",
+      "abstract": "Recent advancements in large multimodal models like GPT-4o have set a new standard for high-fidelity, instruction-guided image editing. However, the proprietary nature of these models and their training data creates a significant barrier for open-source research. To bridge this gap, we introduce GPT-IMAGE-EDIT-1.5M, a publicly available, large-scale image-editing corpus containing more than 1.5 million high-quality triplets (instruction, source image, edited image). We systematically construct t",
+      "usefulness_score": 78
     }
   ]
 }
