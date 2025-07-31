@@ -420,6 +420,52 @@
       "url": "http://arxiv.org/abs/2507.21033v1",
       "abstract": "Recent advancements in large multimodal models like GPT-4o have set a new standard for high-fidelity, instruction-guided image editing. However, the proprietary nature of these models and their training data creates a significant barrier for open-source research. To bridge this gap, we introduce GPT-IMAGE-EDIT-1.5M, a publicly available, large-scale image-editing corpus containing more than 1.5 million high-quality triplets (instruction, source image, edited image). We systematically construct t",
       "usefulness_score": 78
+    },
+    {
+      "source": "arxiv",
+      "title": "A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior",
+      "authors": [
+        "Francesco Ignazio Re",
+        "Andreas Opedal",
+        "Glib Manaiev",
+        "Mario Giulianelli",
+        "Ryan Cotterell"
+      ],
+      "Publish_date": "24-06-2025",
+      "url": "http://arxiv.org/abs/2506.19999v1",
+      "abstract": "This paper introduces a spatio-temporal point process model to analyze reading behavior, capturing the dynamics of eye movements (fixations and saccades) to better understand online sentence processing. This approach moves beyond traditional aggregated eye-tracking measurements, offering a more fine-grained and detailed analysis of reading patterns.",
+      "usefulness_score": 95
+    },
+    {
+      "source": "arxiv",
+      "title": "What Influences the Field Goal Attempts of Professional Players? Analysis of Basketball Shot Charts via Log Gaussian Cox Processes with Spatially Varying Coefficients",
+      "authors": [
+        "Jiahao Cao",
+        "Qingpo Cai",
+        "Lance A. Waller",
+        "DeMarc A. Hickson",
+        "Guanyu Hu",
+        "Jian Kang"
+      ],
+      "Publish_date": "04-03-2025",
+      "url": "http://arxiv.org/abs/2503.02137v1",
+      "abstract": "This study analyzes basketball shot charts using Log Gaussian Cox Processes with spatially varying coefficients to understand the factors influencing shot attempts. By modeling shot locations as a marked spatio-temporal point process, the paper provides insights into offensive and defensive strategies and player performance, offering a sophisticated approach to sports analytics.",
+      "usefulness_score": 85
+    },
+    {
+      "source": "arxiv",
+      "title": "Fine-grained Spatio-temporal Event Prediction with Self-adaptive Anchor Graph",
+      "authors": [
+        "Wang-Tao Zhou",
+        "Zhao Kang",
+        "Sicong Liu",
+        "Lizong Zhang",
+        "Ling Tian"
+      ],
+      "Publish_date": "15-01-2025",
+      "url": "http://arxiv.org/abs/2501.08653v2",
+      "abstract": "This paper presents a new model for fine-grained spatio-temporal event prediction that addresses the challenges of spatial heterogeneity and correlations. The proposed self-adaptive anchor graph method aims to improve the accuracy of predicting event occurrences in continuous space by learning spatial dependencies more effectively than existing state-of-the-art models.",
+      "usefulness_score": 80
     }
   ]
 }
