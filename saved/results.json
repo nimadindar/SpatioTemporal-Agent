@@ -466,6 +466,15 @@
       "url": "http://arxiv.org/abs/2501.08653v2",
       "abstract": "This paper presents a new model for fine-grained spatio-temporal event prediction that addresses the challenges of spatial heterogeneity and correlations. The proposed self-adaptive anchor graph method aims to improve the accuracy of predicting event occurrences in continuous space by learning spatial dependencies more effectively than existing state-of-the-art models.",
       "usefulness_score": 80
+    },
+    {
+      "source": "plos",
+      "title": "PLOS Recurrent spatio-temporal modeling of check-ins in location-based social networks | PLOS ONE",
+      "authors": "unknown",
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197683",
+      "abstract": "This paper explores the use of recurrent spatio-temporal models to understand user behavior in location-based social networks. It focuses on modeling check-in data, showcasing the application of point process models in analyzing human mobility and social patterns.",
+      "usefulness_score": 85
     }
   ]
 }
