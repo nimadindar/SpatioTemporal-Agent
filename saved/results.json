@@ -475,6 +475,61 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197683",
       "abstract": "This paper explores the use of recurrent spatio-temporal models to understand user behavior in location-based social networks. It focuses on modeling check-in data, showcasing the application of point process models in analyzing human mobility and social patterns.",
       "usefulness_score": 85
+    },
+    {
+      "source": "plosone",
+      "title": "Registration of spatio-temporal point clouds of plants for phenotyping",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247243",
+      "abstract": "This paper investigates the problem of registering 3D point clouds of plants over time and space, a key challenge in plant phenotyping. The authors propose a novel method for aligning these spatio-temporal point clouds to enable the study of plant growth and development.",
+      "usefulness_score": 95
+    },
+    {
+      "source": "ploscompbiol",
+      "title": "A mechanistic and deep learning study | PLOS Computational Biology",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012497",
+      "abstract": "This study proposes a novel modeling framework that integrates spatio-temporal heterogeneity of susceptible individuals into homogeneous models. This is a significant contribution to the field of epidemiology and disease modeling.",
+      "usefulness_score": 90
+    },
+    {
+      "source": "plosone",
+      "title": "Evaluating and implementing temporal, spatial, and spatio-temporal ...",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184419",
+      "abstract": "This paper provides a comprehensive evaluation of various temporal, spatial, and spatio-temporal methods. The authors discuss the implementation of these methods in R, WinBUGS, and SaTScan, offering practical guidance for researchers.",
+      "usefulness_score": 85
+    },
+    {
+      "source": "ploscompbiol",
+      "title": "Spatio-temporal modeling of the crowding conditions and metabolic ...",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009140",
+      "abstract": "This research investigates how crowding conditions and metabolic variability among cells shape the dynamics of microbial communities. The authors use spatio-temporal modeling to explore these complex interactions.",
+      "usefulness_score": 80
+    },
+    {
+      "source": "plosone",
+      "title": "Self-Organization of Spatio-Temporal Hierarchy via Learning ... - PLOS",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131214",
+      "abstract": "This study introduces a method for contextual recognition of dynamic visual image patterns using a self-organizing spatio-temporal hierarchy. This has potential applications in computer vision and pattern recognition.",
+      "usefulness_score": 80
     }
   ]
 }
