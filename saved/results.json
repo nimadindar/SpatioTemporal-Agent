@@ -530,6 +530,30 @@
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131214",
       "abstract": "This study introduces a method for contextual recognition of dynamic visual image patterns using a self-organizing spatio-temporal hierarchy. This has potential applications in computer vision and pattern recognition.",
       "usefulness_score": 80
+    },
+    {
+      "source": "arxiv",
+      "title": "When Proximity Falls Short: Inequalities in Commuting and Accessibility by Public Transport in Santiago, Chile",
+      "authors": [
+        "Cesar Marin-Flores",
+        "Leo Ferres",
+        "Henrikki Tenkanen"
+      ],
+      "Publish_date": "29-07-2025",
+      "url": "http://arxiv.org/abs/2507.21743v1",
+      "abstract": "This study uses mobile phone data (eXtended Detail Records) to analyze commuting patterns and accessibility in Santiago, Chile. By modeling residential and work locations and commuting routes, the authors reveal inequalities in public transport accessibility, highlighting the limitations of traditional static models.",
+      "usefulness_score": 80
+    },
+    {
+      "source": "arxiv",
+      "title": "An empirical comparison of some outlier detection methods with longitudinal data",
+      "authors": [
+        "Marcello D'Orazio"
+      ],
+      "Publish_date": "28-07-2025",
+      "url": "http://arxiv.org/abs/2507.21203v1",
+      "abstract": "This paper compares various outlier detection methods for longitudinal data, drawing from official statistics, data mining, and machine learning. The study applies these methods to panel survey data, evaluating their effectiveness in identifying potential outliers and discussing their respective strengths and weaknesses.",
+      "usefulness_score": 85
     }
   ]
 }
