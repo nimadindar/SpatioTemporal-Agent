@@ -554,6 +554,20 @@
       "url": "http://arxiv.org/abs/2507.21203v1",
       "abstract": "This paper compares various outlier detection methods for longitudinal data, drawing from official statistics, data mining, and machine learning. The study applies these methods to panel survey data, evaluating their effectiveness in identifying potential outliers and discussing their respective strengths and weaknesses.",
       "usefulness_score": 85
+    },
+    {
+      "source": "arxiv",
+      "title": "Local Poisson Deconvolution for Discrete Signals",
+      "authors": [
+        "Shayan Hundrieser",
+        "Tudor Manole",
+        "Danila Litskevich",
+        "Axel Munk"
+      ],
+      "Publish_date": "01-08-2025",
+      "url": "http://arxiv.org/abs/2508.00824v1",
+      "abstract": "We analyze the statistical problem of recovering an atomic signal, modeled as a discrete uniform distribution, from a binned Poisson convolution model. This question is motivated, among others, by super-resolution laser microscopy applications, where precise estimation of the signal provides insights into spatial formations of cellular protein assemblies. Our main results quantify the local minimax risk of estimating the signal for a broad class of smooth convolution kernels.",
+      "usefulness_score": 85
     }
   ]
 }
