@@ -568,6 +568,18 @@
       "url": "http://arxiv.org/abs/2508.00824v1",
       "abstract": "We analyze the statistical problem of recovering an atomic signal, modeled as a discrete uniform distribution, from a binned Poisson convolution model. This question is motivated, among others, by super-resolution laser microscopy applications, where precise estimation of the signal provides insights into spatial formations of cellular protein assemblies. Our main results quantify the local minimax risk of estimating the signal for a broad class of smooth convolution kernels.",
       "usefulness_score": 85
+    },
+    {
+      "source": "arxiv",
+      "title": "Generative AI in Higher Education: Evidence from an Elite College",
+      "authors": [
+        "Zara Contractor",
+        "Germ\u00e1n Reyes"
+      ],
+      "Publish_date": "01-08-2025",
+      "url": "http://arxiv.org/abs/2508.00717v1",
+      "abstract": "This study uses survey data from a selective U.S. college to document the adoption of generative AI among students. It finds that over 80% of students use AI for academic purposes, with usage varying across disciplines and demographics. The paper explores how AI is used for learning and its potential impact on educational inequalities.",
+      "usefulness_score": 80
     }
   ]
 }
