@@ -580,6 +580,18 @@
       "url": "http://arxiv.org/abs/2508.00717v1",
       "abstract": "This study uses survey data from a selective U.S. college to document the adoption of generative AI among students. It finds that over 80% of students use AI for academic purposes, with usage varying across disciplines and demographics. The paper explores how AI is used for learning and its potential impact on educational inequalities.",
       "usefulness_score": 80
+    },
+    {
+      "source": "arxiv",
+      "title": "Stochastic Taylor expansion via Poisson point processes",
+      "authors": [
+        "Weichao Wu",
+        "Athanasios C. Micheas"
+      ],
+      "Publish_date": "06-08-2025",
+      "url": "http://arxiv.org/abs/2508.04703v1",
+      "abstract": "This paper introduces a generalization of Taylor's theorem using a stochastic formulation based on a Poisson point process model. This approach is used to propose a novel non-linear regression framework and perform statistical inference on the model parameters. The authors prove theoretical properties of the proposed estimator, including its convergence to the true function. The theory is presented for both univariate and multivariate cases.",
+      "usefulness_score": 95
     }
   ]
 }
