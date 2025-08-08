@@ -592,6 +592,17 @@
       "url": "http://arxiv.org/abs/2508.04703v1",
       "abstract": "This paper introduces a generalization of Taylor's theorem using a stochastic formulation based on a Poisson point process model. This approach is used to propose a novel non-linear regression framework and perform statistical inference on the model parameters. The authors prove theoretical properties of the proposed estimator, including its convergence to the true function. The theory is presented for both univariate and multivariate cases.",
       "usefulness_score": 95
+    },
+    {
+      "source": "ploscompbiol",
+      "title": "Detection and analysis of spatiotemporal patterns in brain activity",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006643",
+      "abstract": "Research Article: Detection and analysis of spatiotemporal patterns in brain activity. Rory G. Townsend, Pulin Gong.",
+      "usefulness_score": 85
     }
   ]
 }
