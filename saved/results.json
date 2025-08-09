@@ -603,6 +603,17 @@
       "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006643",
       "abstract": "Research Article: Detection and analysis of spatiotemporal patterns in brain activity. Rory G. Townsend, Pulin Gong.",
       "usefulness_score": 85
+    },
+    {
+      "source": "plosone",
+      "title": "Event Detection using Twitter: A Spatio-Temporal Approach",
+      "authors": [
+        "unknown"
+      ],
+      "Publish_date": "unknown",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097807",
+      "abstract": "This paper suggests an alternative methodology for event detection using space-time scan statistics (STSS). It has been found that not only can STSS be applied to Twitter, but that abnormal space time clusters did exist within Twitter relating to the London helicopter crash disaster, as well as other space-time events such as sport fixtures and train delays.",
+      "usefulness_score": 90
     }
   ]
 }
